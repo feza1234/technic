@@ -87,6 +87,7 @@ public static void main(string[] arg) {system.out.printlnt("Hello world");
 </header>
 <p> Thank you for joinog us.</p>
           </section>
+          print("please like!")
     </main>
 </body>
 </html>
